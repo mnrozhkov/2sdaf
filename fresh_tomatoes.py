@@ -107,7 +107,7 @@ main_page_content = '''
       <div class="carousel-inner" role="listbox">
 
         <div class="item active">
-          <img src="data:E:\ProjectFiles\Python\Udacity_FullStackDev\Project 1_Movie Trailer Website\data\slide2.jpg" alt="First slide">
+          <img src="" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>My personal movies library</h1>
@@ -118,7 +118,7 @@ main_page_content = '''
           </div>
         </div>
         <div class="item">
-          <img src="E:\ProjectFiles\Python\Udacity_FullStackDev\Project 1_Movie Trailer Website\data\slide2.jpg" alt="Second slide">
+          <img src="data\slide2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1></h1>
